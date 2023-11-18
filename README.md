@@ -1,1 +1,2 @@
-# TO-DO-LIST
+# TO-DO LIST
+A to-do list is a tool used to manage and organize tasks or activities that need to be completed. It serves as a simple but effective way to keep track of what needs to be done, providing a clear overview of pending tasks. To-do lists can vary in complexity, ranging from handwritten notes to digital applications, and often include features such as adding tasks, setting priorities or due dates, marking tasks as completed, and removing or editing tasks. They're popular for personal task management, project planning, time management, and maintaining productivity.
